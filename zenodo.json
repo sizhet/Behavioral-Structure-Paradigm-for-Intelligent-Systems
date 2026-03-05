@@ -1,0 +1,42 @@
+{
+  "title": "Behavioral CCC: A Behavioral Structure Paradigm for Intelligent Systems",
+
+  "upload_type": "publication",
+
+  "publication_type": "report",
+
+  "description": "Behavioral CCC (Behavioral Common Concept Core) proposes a structural paradigm for modeling behavior and decision trajectories in intelligent systems. While modern AI architectures—such as large language model reasoning, AI coding assistants, autonomous agents, and rule-based systems—often appear fundamentally different, they share a common structural pattern: the selection of behavioral trajectories under goals and constraints. The Behavioral CCC framework extends Structural Intelligence from static knowledge structures to dynamic behavior structures, providing a unified interpretation of diverse AI systems and rule-based decision processes.",
+
+  "creators": [
+    {
+      "name": "Tan, Sizhe"
+    },
+    {
+      "name": "ChatGPT",
+      "affiliation": "OpenAI"
+    }
+  ],
+
+  "keywords": [
+    "Structural Intelligence",
+    "Behavioral CCC",
+    "Behavior Structure",
+    "Decision Trajectories",
+    "Rules Engines",
+    "AI Agents",
+    "LLM Reasoning",
+    "AI Coding",
+    "Intelligent Systems",
+    "Behavioral Modeling"
+  ],
+
+  "license": "Apache",
+
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/sizhet/Behavioral-Structure-Paradigm-for-Intelligent-Systems",
+      "scheme": "url"
+    }
+  ]
+}

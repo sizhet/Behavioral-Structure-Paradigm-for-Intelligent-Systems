@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Behavioral CCC: A Behavioral Structure Paradigm for Intelligent Systems"
+message: "If you use this work, please cite it as below."
+type: software
+
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+
+repository-code: "https://github.com/sizhet/Behavioral-CCC"
+abstract: >
+  Behavioral CCC (Behavioral Common Concept Core) introduces a structural
+  paradigm for modeling behavior and decision trajectories in intelligent
+  systems. The framework extends structural intelligence concepts from
+  static knowledge representation to behavioral structure modeling.
+  It provides a unified interpretation of diverse AI systems, including
+  large language model reasoning, AI coding assistants, agents, rule
+  engines, and decision systems, by framing intelligence as the selection
+  of behavioral trajectories under goals and constraints.
+
+keywords:
+  - structural intelligence
+  - behavioral structure
+  - decision trajectories
+  - rule systems
+  - AI agents
+  - LLM reasoning
+  - AI coding
+
+license: Apache 2.0
