@@ -70,6 +70,10 @@ This paradigm provides a foundation for understanding decision-making across:
 - coding assistants
 - rule-based decision systems
 
+---
+
 <p align="center">
 <img src="../diagrams/behavioral_ccc_octagon.png" width="900">
 </p>
+
+---

@@ -83,3 +83,11 @@ It supports:
 - interpretable decision processes
 - scalable behavior modeling
 - integration with data-driven learning systems
+
+---
+
+<p align="center">
+<img src="../diagrams/behavioral_ccc_one_page_paradigm_sheet.png" width="900">
+</p>
+
+---

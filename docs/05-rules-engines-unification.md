@@ -57,3 +57,11 @@ Many existing decision frameworks can be interpreted through Behavioral CCC:
 | RL Policies | trajectory optimization |
 
 Behavioral CCC therefore provides a unifying structural framework for rule systems.
+
+---
+
+<p align="center">
+<img src="../diagrams/behavioral_ccc_unifying_ai_systems_v2.png" width="900">
+</p>
+
+---
