@@ -4,10 +4,16 @@
 
 <p align="center">
 
-### Intelligence is the ability to select effective behavioral trajectories  
-### under goals and constraints.
+#### Intelligence is the ability to select effective behavioral trajectoriesunder goals and constraints.
 
 Rules are constraints on behavioral trajectories.
+
+Behavioral Intelligence can be interpreted as a phase space
+defined by three interacting structures:
+
+    Trajectory Space
+    Constraint Space
+    Utility Landscape
 
 </p>
 
@@ -69,6 +75,27 @@ Behavioral CCC builds on earlier Structural Intelligence concepts:
     
 
 This stack connects **structural knowledge modeling** with **behavioral decision systems**.
+
+Static CCC models structural knowledge.
+
+Behavioral CCC extends CCC to behavioral trajectories,
+allowing the modeling of decision dynamics.
+
+Behavioral CCC provides a structural interpretation of
+behavior and decision systems, analogous to how metric
+distance unified geometric reasoning.
+
+---
+
+## Behavioral Intelligence Model
+
+τ = (s0, a0, s1, a1, … , sn)
+
+R(τ) : rule constraints
+
+U(τ) : utility function
+
+τ* = argmax U(τ) subject to R(τ)
 
 ---
 
