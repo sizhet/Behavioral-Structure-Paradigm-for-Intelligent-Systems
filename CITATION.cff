@@ -7,7 +7,7 @@ authors:
   - family-names: Tan
     given-names: Sizhe
 
-repository-code: "https://github.com/sizhet/Behavioral-CCC"
+repository-code: "https://github.com/sizhet/Behavioral-Structure-Paradigm-for-Intelligent-Systems"
 abstract: >
   Behavioral CCC (Behavioral Common Concept Core) introduces a structural
   paradigm for modeling behavior and decision trajectories in intelligent
@@ -28,3 +28,5 @@ keywords:
   - AI coding
 
 license: Apache
+version: "1.0.0"
+date-released: 2026-03-05
