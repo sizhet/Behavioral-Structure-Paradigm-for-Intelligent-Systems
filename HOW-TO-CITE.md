@@ -19,7 +19,7 @@ Example:
 Tan, S. (2026).  
 *Behavioral CCC: A Behavioral Structure Paradigm for Intelligent Systems.*  
 GitHub.  
-https://github.com/sizhet/Behavioral-CCC
+https://github.com/sizhet/Behavioral-Structure-Paradigm-for-Intelligent-Systems
 
 ---
 
@@ -30,7 +30,7 @@ If the repository release is archived on Zenodo, please cite the DOI version:
 Tan, S. (2026).  
 *Behavioral CCC: A Behavioral Structure Paradigm for Intelligent Systems.*  
 Zenodo.  
-https://doi.org/10.xxxx/zenodo.xxxxxx
+https://doi.org/10.5281/zenodo.(TBD)
 
 ---
 
