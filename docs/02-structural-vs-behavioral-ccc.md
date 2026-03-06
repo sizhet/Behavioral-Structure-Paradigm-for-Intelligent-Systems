@@ -9,6 +9,29 @@ These two layers correspond to structural and dynamic aspects of intelligence.
 
 ---
 
+## Static CCC vs Behavioral CCC
+
+```mermaid
+flowchart LR
+
+A[Objects / Concepts]
+B[Structural Similarity]
+C[Static CCC]
+
+D[Observations / States]
+E[Behavior Trajectories]
+F[Behavioral CCC]
+
+A --> B
+B --> C
+
+D --> E
+E --> F
+
+C --- F
+```
+---
+
 ## Static CCC
 
 Static CCC describes shared structural properties between objects or concepts.
