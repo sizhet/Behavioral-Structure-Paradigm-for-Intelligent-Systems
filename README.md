@@ -72,6 +72,38 @@ This stack connects **structural knowledge modeling** with **behavioral decision
 
 ---
 
+## Static CCC vs Behavioral CCC Paradigm
+
+```mermaid
+flowchart TB
+
+subgraph S1[Static CCC Layer]
+A1[Objects / Entities]
+A2[Structural Features]
+A3[Structural Similarity]
+A4[Static CCC<br>Concept Core]
+
+A1 --> A2
+A2 --> A3
+A3 --> A4
+end
+
+subgraph S2[Behavioral CCC Layer]
+B1[Observations]
+B2[Actions]
+B3[Behavior Trajectories]
+B4[Behavioral CCC<br>Behavior Core]
+
+B1 --> B2
+B2 --> B3
+B3 --> B4
+end
+
+S1 --- S2
+```
+
+---
+
 ## AI Systems Interpreted by Behavioral CCC
 
 The Behavioral CCC paradigm provides a unified interpretation of:
