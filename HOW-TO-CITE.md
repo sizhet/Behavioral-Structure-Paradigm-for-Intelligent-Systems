@@ -42,5 +42,5 @@ https://doi.org/10.5281/zenodo.18884075
   title        = {Behavioral CCC: A Behavioral Structure Paradigm for Intelligent Systems},
   year         = {2026},
   publisher    = {GitHub},
-  url          = {https://github.com/sizhet/Behavioral-CCC}
+  url          = {https://github.com/sizhet/Behavioral-Structure-Paradigm-for-Intelligent-Systems}
 }
