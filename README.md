@@ -209,7 +209,7 @@ If you use or reference this work, please cite:
     Tan, S., & ChatGPT. (2026).
     Behavioral CCC: A Behavioral Structure Paradigm for Intelligent Systems.
     https://github.com/sizhet/Behavioral-Structure-Paradigm-for-Intelligent-Systems
-    DOI: TBD
+    DOI: 10.5281/zenodo.18884076 
 
 ## License
 

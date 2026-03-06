@@ -30,7 +30,7 @@ If the repository release is archived on Zenodo, please cite the DOI version:
 Tan, S. (2026).  
 *Behavioral CCC: A Behavioral Structure Paradigm for Intelligent Systems.*  
 Zenodo.  
-https://doi.org/10.5281/zenodo.(TBD)
+https://doi.org/10.5281/zenodo.18884075
 
 ---
 
