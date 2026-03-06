@@ -23,7 +23,7 @@ and decision trajectories in intelligent systems.
 ---
 
 <p align="center">
-<img src="diagrams/behavioral_ccc_unifying_ai_systems_v2.png" width="900">
+<img src="diagrams/behavioral_ccc_unifying_ai_systems.png" width="900">
 </p>
 
 ---
