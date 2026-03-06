@@ -175,8 +175,8 @@ Behavioral CCC interprets them as instances of
 If you use ideas from this project, please cite the repository.
 
 See:
-
-    HOW-TO-CITE.md
+[HOW-TO-CITE.md](HOW-TO-CITE.md)
+    
 
 ---
 
