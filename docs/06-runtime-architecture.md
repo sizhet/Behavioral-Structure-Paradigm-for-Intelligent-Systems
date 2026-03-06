@@ -4,6 +4,29 @@ A Behavioral CCC runtime system executes decisions by selecting trajectories wit
 
 ---
 
+## Behavioral CCC Runtime Map
+
+```mermaid
+flowchart LR
+
+A[Observation Space<br>LHS Attention]
+B[Behavior Candidates]
+C[Constraint Shell]
+D[Cost Evaluation]
+E[Path Selection]
+F[Action Execution]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+
+F --> G[New State]
+G --> A
+```
+---
+
 ## Core Components
 
 A typical runtime architecture contains several components.
@@ -71,7 +94,6 @@ The typical runtime process can be expressed as:
     → evaluate cost
     → select optimal path
     
-
 ---
 
 ## Significance
