@@ -1,5 +1,30 @@
 # Behavioral CCC and the Unification of Rules Engines
 
+---
+
+## Rules Engines Unified by Behavioral CCC
+
+```mermaid
+flowchart TD
+
+A[Traditional Rules]
+B[Policy Engines]
+C[Workflow Systems]
+D[Recommendation Systems]
+E[RL Policies]
+
+A --> F[Behavioral CCC<br>Trajectory Constraints]
+B --> F
+C --> F
+D --> F
+E --> F
+
+F --> G[Trajectory Optimization]
+G --> H[Decision Outcome]
+```
+
+---
+
 Traditional rule engines rely on statements of the form:
 
     IF condition → action
