@@ -18,6 +18,36 @@ Thus Structural Intelligence expands from static knowledge modeling into dynamic
 
 ---
 
+## Behavioral CCC Paradigm Map
+
+```mermaid
+flowchart TD
+
+A[Metric Distance<br>Relational Similarity]
+B[Differential Tree<br>Structural Search Space]
+C[Static CCC<br>Concept Structure]
+D[Behavioral CCC<br>Behavior Structure]
+E[Intelligent Runtime Systems]
+
+A --> B
+B --> C
+C --> D
+D --> E
+
+E1[AI Agents]
+E2[AI Coding Systems]
+E3[Tool-based AI]
+E4[Decision Systems]
+E5[Rules Engines]
+
+E --> E1
+E --> E2
+E --> E3
+E --> E4
+E --> E5
+```
+---
+
 ## Behavioral Trajectory Perspective
 
 Intelligent behavior typically unfolds as sequences of observations and actions:
