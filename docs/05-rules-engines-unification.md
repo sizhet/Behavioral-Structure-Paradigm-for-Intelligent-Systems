@@ -85,8 +85,27 @@ Behavioral CCC therefore provides a unifying structural framework for rule syste
 
 ---
 
-<p align="center">
-<img src="../diagrams/behavioral_ccc_unifying_ai_systems_v2.png" width="900">
-</p>
+## Behavioral CCC Unifying AI Systems
 
+```mermaid
+flowchart TB
+
+A[Behavioral CCC<br>Behavior Structure Paradigm]
+
+B[LLM Reasoning]
+C[AI Coding Systems]
+D[AI Agents]
+E[Rules Engines]
+F[Decision Systems]
+
+B --> A
+C --> A
+D --> A
+E --> A
+F --> A
+
+A --> G[Behavior Trajectory Modeling]
+A --> H[Constraint-based Decisions]
+A --> I[Path Optimization]
+```
 ---
