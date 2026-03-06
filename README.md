@@ -130,6 +130,7 @@ Behavioral CCC interprets them as instances of
     04-ai-coding-behavioral-ccc
     05-rules-engines-unification
     06-runtime-architecture
+    07-behavioral-intelligence-reflection
     
     diagrams/
     behavioral-ccc-paradigm-map
